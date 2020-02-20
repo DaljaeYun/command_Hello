@@ -6,7 +6,8 @@ This is a temporary script file.
 """
 
 //  For command line git tutorial
-//  Local repository modifications
+//  Second: Local repository modifications
+//  First: Github modifications
 
 print("Hello World")
 print("By DJYUN")
